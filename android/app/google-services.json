@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064906268705",
+    "project_id": "app-learning-vietnamese",
+    "storage_bucket": "app-learning-vietnamese.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064906268705:android:cccac159c79f57d02c4360",
+        "android_client_info": {
+          "package_name": "com.example.app_hoc_tieng_viet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzwnf68m14NRi0Z5VDK0iNAzWuLqlnLSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
